@@ -1,0 +1,73 @@
+div{
+	height:auto;
+	width:500px;
+	background-color: pink;
+	border-radius: 10px;
+	align-items: center;
+	margin:60px 500px;
+}
+h1{
+	margin-top: 0px;
+	margin-left: 50px;
+	}
+	h3{
+		margin:10px 10px;
+		text-align: center;
+		padding-top: 20px;
+	}
+input.cb{
+	height:30px;
+	width:60px;
+}
+.btt{
+	height:30px;
+	border:none;
+}
+th{
+	background-color: palegoldenrod;
+}
+tr:hover{
+	background-color: springgreen;
+}
+body{
+	 background-image:url("images/opaback.png");
+      background-repeat:no-repeat;
+	  background-size: cover;
+	  background-position: center;
+	  padding: auto;
+}
+.butt{
+	height:35px;width:100px;
+	background-color: royalblue;
+	color:white;
+}
+.butt:hover{
+	height:35px;width:100px;
+	background-color: rgb(0, 0, 255);
+	color:white;
+	font-size: 15px;
+}
+a{
+			text-decoration:none;
+}
+table{
+	padding:20px 20px 20px 20px;
+}
+img{
+	height:100px;width:70px;
+}
+th, td {
+ border: 1px solid;
+ text-align: center;
+}
+h1{
+text-align: center;	
+}
+td{
+	align-items: center;
+	height: 20px;
+	width:50px;
+}
+.long{
+	width:230px;
+}
